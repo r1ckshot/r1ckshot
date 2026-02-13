@@ -1,8 +1,13 @@
+
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mykhailo+(Mike)+%F0%9F%91%8B;Fresh+Graduate+Engineer+%F0%9F%8E%93;Fitness+%26+Tech+Enthusiast+%F0%9F%8F%8B)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2E7D32&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Mykhailo+(Mike)+%F0%9F%91%8B;Fresh+Graduate+Engineer+%F0%9F%8E%93;Fitness+%26+Tech+Enthusiast+%F0%9F%8F%8B)](https://git.io/typing-svg)
 
 </div>
+
 
 ---
 
