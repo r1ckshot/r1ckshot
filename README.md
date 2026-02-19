@@ -1,37 +1,34 @@
-
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2E7D32&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=180&section=header&text=Hey%20there!%20I'm%20Mykhailo%20(Mike)%20👋&fontSize=32&fontColor=64ffda&fontAlignY=45&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20MSc%20Student%20%7C%20Fitness%20Enthusiast%20🏋️&descAlignY=68&descSize=16&descColor=8892b0"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Mykhailo+(Mike)+%F0%9F%91%8B;Fresh+Graduate+Engineer+%F0%9F%8E%93;Fitness+%26+Tech+Enthusiast+%F0%9F%8F%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Building+full-stack+apps+from+scratch+%F0%9F%9A%80;Blending+fitness+passion+with+clean+code+%F0%9F%8F%8B%EF%B8%8F;AI-assisted+%E2%80%94+but+the+thinking+is+mine+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
-
 ---
+
+<div align="center">
 
 ## 👨‍💻 About Me
 
-I'm a **Fresh Graduate Engineer** from Ukraine with a passion for building meaningful applications. I recently completed my Bachelor's degree in Poland (3.5 years) and love combining my two biggest interests: **technology and fitness**.
+I'm a **Full-Stack Developer** and **MSc student** from Ukraine, currently studying in Poland.  
+I build end-to-end applications — from databases and APIs to interactive frontends.
 
-🗣️ **Languages:** 🇺🇦 Ukrainian (Native) • 🇵🇱 Polish (Fluent) • 🇬🇧 English (Fluent) • 🇷🇺 Russian (Fluent)
+My projects tend to reflect my real interests: **fitness, nutrition, and health analytics**.  
+Because the best apps are the ones you'd actually want to use yourself.
 
-🚀 **Currently working on:** Building my personal portfolio website to showcase my projects and journey
+🗣️ **Ukrainian** (Native) • **Polish** (Fluent) • **English** (Fluent) • **Russian** (Fluent)
 
-### 🌟 My Philosophy
+### 🌟 How I Work
 
-I believe in **honest, transparent development**. I actively use **AI tools like Claude** for routine tasks, debugging, and learning new concepts - because staying current with modern development practices is essential. However, I bring **creativity, critical thinking, and problem-solving skills** to every project. 
+I openly use **AI tools like Claude** for routine tasks, debugging, and learning new concepts.  
+But **the architecture, logic, and creative decisions are always mine.**  
+AI accelerates — solid fundamentals drive.
 
-**AI assists me, but the architecture, logic, and creative solutions are mine.** I love tackling challenging problems and finding innovative approaches that AI alone couldn't conceptualize.
+🌐 **[r1ckshot.github.io/Portfolio](https://r1ckshot.github.io/Portfolio/)**
 
-### 🎯 What Drives Me
-
-- 💪 Building **fitness and health-focused applications**
-- 🧠 Solving **complex technical challenges** with creative solutions
-- 🌱 **Continuous learning** - always exploring new technologies
-- 🤝 **Collaborative development** - learning from others and sharing knowledge
-- 🏋️ Combining my passion for **training and nutrition** with tech
+</div>
 
 ---
 
@@ -45,39 +42,24 @@ I believe in **honest, transparent development**. I actively use **AI tools like
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### Frameworks, Platforms & Libraries
+### Frameworks & Libraries
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-### Servers
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-### Testing
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-
-### CI/CD & Version Control
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### Other
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
@@ -91,9 +73,9 @@ I believe in **honest, transparent development**. I actively use **AI tools like
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=r1ckshot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4CAF50&text_color=c9d1d9&icon_color=4CAF50)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=r1ckshot&theme=dark&hide_border=false&background=0d1117&stroke=4CAF50&ring=4CAF50&fire=4CAF50&currStreakLabel=4CAF50)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=r1ckshot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=4CAF50&text_color=c9d1d9)
+![](https://github-readme-stats.vercel.app/api?username=r1ckshot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0&icon_color=64ffda)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=r1ckshot&theme=dark&hide_border=false&background=0d1117&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=r1ckshot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=64ffda&text_color=8892b0)
 
 </div>
 
@@ -104,7 +86,7 @@ I believe in **honest, transparent development**. I actively use **AI tools like
 <div align="center">
 
 <table>
-<tr> 
+<tr>
 <td width="50%">
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
@@ -112,7 +94,7 @@ I believe in **honest, transparent development**. I actively use **AI tools like
 </td>
 <td width="50%">
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham&borderColor=4CAF50)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=gotham&borderColor=64ffda)
 
 </td>
 </tr>
@@ -124,9 +106,6 @@ I believe in **honest, transparent development**. I actively use **AI tools like
 
 <div align="center">
 
-
-### 💡 "Like in fitness - progress comes from small, consistent steps, not instant transformations"
-
-*Thanks for visiting! Check out my pinned projects below* ⬇️
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=100&section=footer"/>
 
 </div>
