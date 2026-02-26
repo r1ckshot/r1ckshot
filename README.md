@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=130&section=header&text=Hey%20there!%20I'm%20Mykhailo%20(Mike)%20👋&fontSize=32&fontColor=64ffda&fontAlignY=45&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20MSc%20Student%20%7C%20Fitness%20Enthusiast%20🏋️&descAlignY=68&descSize=16&descColor=8892b0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=130&section=header&text=Hey%20there!%20I'm%20Mykhailo%20(Mike)%20👋&fontSize=32&fontColor=64ffda&fontAlignY=45&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20MSc%20Student%20%7C%20Fitness%20Enthusiast%20&descAlignY=68&descSize=16&descColor=8892b0"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Building+full-stack+apps+from+scratch+%F0%9F%9A%80;Blending+fitness+passion+with+clean+code+%F0%9F%8F%8B%EF%B8%8F;AI-assisted+%E2%80%94+but+the+thinking+is+mine+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Building+full-stack+apps+from+scratch+%F0%9F%9A%80;Blending+fitness+passion+with+clean+code+%F0%9F%8F%8B%EF%B8%8F;AI-assisted+%E2%80%94+but+the+thinking+is+mine+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9C%A8;Currently+building%3A+LiftLens+%E2%80%94+AI+gym+form+analyzer+%F0%9F%94%A8)](https://git.io/typing-svg)
 
 </div>
 
