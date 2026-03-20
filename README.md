@@ -73,9 +73,7 @@ AI accelerates — solid fundamentals drive.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=r1ckshot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=64ffda&text_color=8892b0&icon_color=64ffda)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=r1ckshot&theme=dark&hide_border=false&background=0d1117&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=r1ckshot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=64ffda&text_color=8892b0)
 
 </div>
 
