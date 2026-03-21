@@ -18,6 +18,8 @@ I build end-to-end applications — from databases and APIs to interactive front
 My projects tend to reflect my real interests: **fitness, nutrition, and health analytics**.  
 Because the best apps are the ones you'd actually want to use yourself.
 
+Currently diving into **ML pipelines** and **AI agents** — turning data into decisions.
+
 🗣️ **Ukrainian** (Native) • **Polish** (Fluent) • **English** (Fluent) • **Russian** (Fluent)
 
 ### 🌟 How I Work
