@@ -84,9 +84,10 @@
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=r1ckshot&theme=dark&hide_border=true&background=0d1117&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&sideNums=64ffda)
+![](https://github-readme-streak-stats.herokuapp.com/?user=r1ckshot&theme=dark&hide_border=false&background=0d1117&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda)<br/>
 
 </div>
 
