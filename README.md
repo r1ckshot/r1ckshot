@@ -93,6 +93,12 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph"/>
+</div>
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=80&section=footer"/>
 </div>
