@@ -1,3 +1,15 @@
+<!--
+  The block between the nexus:start / nexus:end markers below is written
+  automatically once a day by an agent of mine. It owns everything inside
+  the markers, including the heading, and nothing outside them.
+  Edit the rest of this file by hand.
+-->
+
+` and `<!-- nexus:end -->`, including the section
+heading, and must never touch a byte outside those markers. Before the
+first Phase 1 run the block is empty, so nothing renders.
+-->
+
 <div align="center">
   <img width="100%" src="header.svg" alt="Mykhailo Kapustianyk"/>
 </div>
@@ -6,100 +18,67 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=Building+full-stack+apps+from+scratch+%F0%9F%9A%80;AI-assisted+%E2%80%94+but+the+thinking+is+mine+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%E2%9C%A8;Currently+building%3A+YagodaKarpat+%E2%80%94+blueberry+farm+site+%F0%9F%AB%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=64FFDA&center=true&vCenter=true&width=800&lines=I+build+agents+that+run+without+me+%F0%9F%A4%96;I+own+the+contract+they+run+under+%F0%9F%93%90;Evidence+%E2%86%92+spec+%E2%86%92+gates+%E2%86%92+production+%E2%9C%A8)](https://git.io/typing-svg)
+
+### 🌐 [Portfolio](https://r1ckshot.github.io/Portfolio/) &nbsp;·&nbsp; 📫 [kapusticnyk.com@gmail.com](mailto:kapusticnyk.com@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
+## 🧠 How I Work
 
-🔭 &nbsp;Full-Stack Developer building end-to-end apps — from databases and APIs to interactive frontends  
-🤖 &nbsp;Diving into **ML pipelines** and **AI agents** — turning ideas into intelligent systems  
-⛪ &nbsp;Practicing Christian — faith shapes how I approach both life and work
+Four questions, before any code:
 
-### 🌐 [Portfolio](https://r1ckshot.github.io/Portfolio/)
+| | |
+|---|---|
+| **Delegation** | what a model should do at all |
+| **Description** | specified so a wrong answer shows |
+| **Discernment** | how I catch a wrong output |
+| **Diligence** | what must never happen, ever |
 
-</div>
+**Not slogans** — the literal section headings of the operating rules I keep in
+`CLAUDE.md` in every repository I work in.
 
----
-
-## 💻 Tech Stack
-
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" valign="top" width="50%" style="border: none; padding: 0 16px 24px 16px;">
-      <h3>Languages</h3>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-      <br>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    </td>
-    <td align="center" valign="top" width="50%" style="border: none; padding: 0 16px 24px 16px;">
-      <h3>Frameworks & Libraries</h3>
-      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="center" valign="top" width="50%" style="border: none; padding: 0 16px;">
-      <h3>Databases</h3>
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
-    </td>
-    <td align="center" valign="top" width="60%" style="border: none; padding: 0 16px;">
-      <h3>DevOps & Tools</h3>
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-    </td>
-
-  </tr>
-</table>
-
-<div align="center">
-
-### 🔬 Currently Diving Into
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-</div>
+**Control at both ends** — hooks block a forbidden write *before* it happens.
+Code decides what may be published, not the model's judgement.
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Selected Work
 
-<div align="center">
+| Project | What it is | What's notable |
+|---|---|---|
+| **[tax-navigator](https://github.com/r1ckshot/tax-navigator)** | Free questionnaire that compares tax setups for people earning across two countries' systems | Built alongside an agentic-engineering course, run as a real product: discovery from verbatim user quotes, 12 domain events across 5 bounded contexts, ADRs, phase gates with explicit pass criteria |
+| **[YagodaKarpat](https://github.com/r1ckshot/YagodaKarpat)** | Production website for a family blueberry estate | Live, in use, maintained |
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=r1ckshot&theme=dark&hide_border=false&background=0d1117&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda)<br/>
-
-</div>
+*Some of what I build is private and stays private — including systems that run
+unattended against real money. Glad to talk about how they are engineered;
+I don't publish them.*
 
 ---
 
-## 📈 Contribution Graph
+## 💻 Stack & Activity
+
+Working knowledge of a lot of tools, deep specialisation in few — on purpose. I'd
+rather work out what a project actually needs than force every problem into the
+language I happen to know best, and I use Claude as both build partner and
+teacher to reach production depth in whatever that turns out to be.
+
+Beyond the languages in the chart below:
+
+`FastAPI` · `Next.js` · `React` · `Tailwind` · `Spring` · `SQLite` · `MySQL` · `MongoDB` · `Docker` · `Linux` · `systemd` · `GitHub Actions` · `Claude Code`
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph"/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=r1ckshot&theme=dark&hide_border=false&background=0d1117&stroke=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda)
+
+<img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph with language breakdown"/>
+
 </div>
+
+<!-- nexus:start -->
+<!-- nexus:end -->
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=80&section=footer"/>
