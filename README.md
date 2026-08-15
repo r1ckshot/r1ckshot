@@ -63,6 +63,9 @@ Code decides what may be published, not the model's judgement.
 
 ---
 
+<!-- nexus:start -->
+<!-- nexus:end -->
+
 ## 💻 Stack & Activity
 
 Broad knowledge of many tools, depth in few — on purpose.<br>
@@ -95,9 +98,6 @@ I'd rather find what a project needs, then use Claude to build it and to learn i
 <img src="profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution graph with language breakdown"/>
 
 </div>
-
-<!-- nexus:start -->
-<!-- nexus:end -->
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:0a192f&height=80&section=footer"/>
