@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-08-18 -->
+<!-- date: 2026-08-19 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-2 Kings 15:30 And Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah, and smote him, and slew him, and reigned in his stead, in the twentieth year of Jotham the son of Uzziah.
+Ezekiel 20:1 And it came to pass in the seventh year, in the fifth month, the tenth day of the month, that certain of the elders of Israel came to enquire of the LORD, and sat before me.
 
-Today: logged M8 lessons and an Inspector CLI bug, added the gh CLI to the devcontainer, and allowed context7.com through the firewall for its MCP on tax-navigator, plus private work in agent tooling, documentation, research, tests, and trading logic.
+Today: private work in agent tooling, documentation, tooling, and other areas (12 commits).
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
