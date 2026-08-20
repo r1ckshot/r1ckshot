@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-08-19 -->
+<!-- date: 2026-08-20 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Ezekiel 20:1 And it came to pass in the seventh year, in the fifth month, the tenth day of the month, that certain of the elders of Israel came to enquire of the LORD, and sat before me.
+Psalm 80:9 Thou preparedst room before it, and didst cause it to take deep root, and it filled the land.
 
-Today: private work in agent tooling, documentation, tooling, and other areas (12 commits).
+Today: wired evidence-guard MCP server and channel into tax-navigator, including project config, make targets, and an authenticated webhook, plus a capstone run record; private work in agent tooling, documentation, research, and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
