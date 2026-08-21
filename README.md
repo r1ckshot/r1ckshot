@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-08-20 -->
+<!-- date: 2026-08-21 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Psalm 80:9 Thou preparedst room before it, and didst cause it to take deep root, and it filled the land.
+Ruth 3:1 Then Naomi her mother in law said unto her, My daughter, shall I not seek rest for thee, that it may be well with thee?
 
-Today: wired evidence-guard MCP server and channel into tax-navigator, including project config, make targets, and an authenticated webhook, plus a capstone run record; private work in agent tooling, documentation, research, and other areas.
+Today: closed out doc-state tracking on tax-navigator with the M9 setup pass, a passed-spec update, a corrected CI reference, and routed course sessions through COURSE-NOW.md, plus private work in agent tooling, documentation, research, and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
