@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-08-22 -->
+<!-- date: 2026-08-23 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Psalm 11:3 If the foundations be destroyed, what can the righteous do?
+John 3:1 There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
 
-Today: merged and documented the master-branch push guard and worktree environment work (node_modules symlinks, per-worktree ports, ignored-file rules) on tax-navigator, plus a .env staging block in the pre-commit hooks, and private work in documentation and research.
+Today: shipped the tax-navigator 0.1.0 release — automated tagging and publishing, curated changelog and release notes, hardened the review workflows and rules, and closed out several course lessons on git and review conventions; also private work in documentation, research, and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
