@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-08-23 -->
+<!-- date: 2026-08-24 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-John 3:1 There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
+Job 37:21 And now men see not the bright light which is in the clouds: but the wind passeth, and cleanseth them.
 
-Today: shipped the tax-navigator 0.1.0 release — automated tagging and publishing, curated changelog and release notes, hardened the review workflows and rules, and closed out several course lessons on git and review conventions; also private work in documentation, research, and other areas.
+Today: private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
