@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-08-24 -->
+<!-- date: 2026-08-25 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Job 37:21 And now men see not the bright light which is in the clouds: but the wind passeth, and cleanseth them.
+Psalm 104:32 He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke.
 
-Today: private work in documentation and other areas.
+Today: private work in agent tooling, documentation, and research, plus other work.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
