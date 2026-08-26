@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-08-25 -->
+<!-- date: 2026-08-26 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Psalm 104:32 He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke.
+Colossians 2:23 Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body: not in any honour to the satisfying of the flesh.
 
-Today: private work in agent tooling, documentation, and research, plus other work.
+Today: reviewed and consolidated the custom-agent setup on tax-navigator — named every model, added three new subagents and a read-only reviewer, tightened Bash filtering and hooks, and logged next-tax-year and lesson notes; also private work in agent tooling, documentation, other work, and research.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
