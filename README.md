@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-08-27 -->
+<!-- date: 2026-08-28 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Luke 17:3 Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him.
+Job 24:21 He evil entreateth the barren that beareth not: and doeth not good to the widow.
 
-Today: hardened tax-navigator's agent-evals harness and hooks — static and behavioural eval layers, nightly-run fixes, guards against records-only branches and .env reads, teammate-task gating — and recorded course lessons 10.3–10.5, plus private work in documentation, other work, and research.
+Today: shipped the M10 rules-change monitor capstone on tax-navigator — monthly matrix reconciliation against scripted sources, a golden-task gate for the report reviewer agent — and merged the related PRs, plus private work in documentation and research.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
