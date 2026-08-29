@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-08-28 -->
+<!-- date: 2026-08-29 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Job 24:21 He evil entreateth the barren that beareth not: and doeth not good to the widow.
+Psalm 143:6 I stretch forth my hands unto thee: my soul thirsteth after thee, as a thirsty land. Selah.
 
-Today: shipped the M10 rules-change monitor capstone on tax-navigator — monthly matrix reconciliation against scripted sources, a golden-task gate for the report reviewer agent — and merged the related PRs, plus private work in documentation and research.
+Today: private work in documentation, other work, and research (4 commits).
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
