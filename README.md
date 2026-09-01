@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-08-31 -->
+<!-- date: 2026-09-01 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Isaiah 42:12 Let them give glory unto the LORD, and declare his praise in the islands.
+Judges 10:7 And the anger of the LORD was hot against Israel, and he sold them into the hands of the Philistines, and into the hands of the children of Ammon.
 
-Today: private work in documentation and other small tasks.
+Today: private work in documentation and other miscellaneous tasks.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
