@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-01 -->
+<!-- date: 2026-09-02 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Judges 10:7 And the anger of the LORD was hot against Israel, and he sold them into the hands of the Philistines, and into the hands of the children of Ammon.
+Leviticus 18:16 Thou shalt not uncover the nakedness of thy brother’s wife: it is thy brother’s nakedness.
 
-Today: private work in documentation and other miscellaneous tasks.
+Today: private work in documentation and other areas, 2 commits.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
