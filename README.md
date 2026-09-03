@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-02 -->
+<!-- date: 2026-09-03 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Leviticus 18:16 Thou shalt not uncover the nakedness of thy brother’s wife: it is thy brother’s nakedness.
+Galatians 2:18 For if I build again the things which I destroyed, I make myself a transgressor.
 
-Today: private work in documentation and other areas, 2 commits.
+Today: private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
