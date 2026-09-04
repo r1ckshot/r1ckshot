@@ -64,12 +64,12 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-03 -->
+<!-- date: 2026-09-04 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Galatians 2:18 For if I build again the things which I destroyed, I make myself a transgressor.
+Matthew 11:21 Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works, which were done in you, had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes.
 
 Today: private work in documentation and other areas.
 <!-- nexus:end -->
