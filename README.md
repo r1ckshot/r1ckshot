@@ -64,12 +64,12 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-09 -->
+<!-- date: 2026-09-10 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Numbers 31:25 And the LORD spake unto Moses, saying,
+2 Chronicles 36:12 And he did that which was evil in the sight of the LORD his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of the LORD.
 
 Today: private work in documentation and other areas.
 <!-- nexus:end -->
