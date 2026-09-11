@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-10 -->
+<!-- date: 2026-09-11 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-2 Chronicles 36:12 And he did that which was evil in the sight of the LORD his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of the LORD.
+Jeremiah 37:16 When Jeremiah was entered into the dungeon, and into the cabins, and Jeremiah had remained there many days;
 
-Today: private work in documentation and other areas.
+Today: private work in agent tooling, documentation, research, and other work — 3 commits.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
