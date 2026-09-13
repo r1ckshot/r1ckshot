@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-12 -->
+<!-- date: 2026-09-13 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Luke 18:17 Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child shall in no wise enter therein.
+2 Chronicles 17:9 And they taught in Judah, and had the book of the law of the LORD with them, and went about throughout all the cities of Judah, and taught the people.
 
-Today: private work in documentation and other areas across 2 commits.
+Today: closed out M11 documentation and hardened evals and monitor/hooks guardrails against injected or agent-directed content on tax-navigator, and private work in tooling, documentation, and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
