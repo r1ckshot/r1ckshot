@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-14 -->
+<!-- date: 2026-09-15 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Job 4:6 Is not this thy fear, thy confidence, thy hope, and the uprightness of thy ways?
+2 Chronicles 6:4 And he said, Blessed be the LORD God of Israel, who hath with his hands fulfilled that which he spake with his mouth to my father David, saying,
 
-Today: private work in documentation and other areas.
+Today: shipped on-call automation on tax-navigator — evidence-gated proposals, a post-release threshold detector, collector metrics, deploy monitoring, and QR-code login — plus private work in documentation, research, and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
