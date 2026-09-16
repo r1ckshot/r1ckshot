@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-15 -->
+<!-- date: 2026-09-16 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-2 Chronicles 6:4 And he said, Blessed be the LORD God of Israel, who hath with his hands fulfilled that which he spake with his mouth to my father David, saying,
+Psalm 76:7 Thou, even thou, art to be feared: and who may stand in thy sight when once thou art angry?
 
-Today: shipped on-call automation on tax-navigator — evidence-gated proposals, a post-release threshold detector, collector metrics, deploy monitoring, and QR-code login — plus private work in documentation, research, and other areas.
+Today: shipped a sources page with rule freshness and catalog data plus a two-layer design tokens page on tax-navigator, alongside landing and result-screen visual updates, on-call CI fixes, and private work in agent tooling, documentation, other work, and research.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
