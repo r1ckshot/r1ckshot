@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-17 -->
+<!-- date: 2026-09-18 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Isaiah 56:2 Blessed is the man that doeth this, and the son of man that layeth hold on it; that keepeth the sabbath from polluting it, and keepeth his hand from doing any evil.
+Ezekiel 37:1 The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones,
 
-Today: merged storage-decision docs and closed out the monitor epic on tax-navigator — added a request-pause and WAF-challenge check to the monitor, a vetoed-figures flag on its monthly report, a weekly report builder and labeler-agreement measurement for the Telegram assistant, and a one-PR-per-chunk gate — plus private work in agent tooling, documentation, other work, and research.
+Today: shipped a batch of onboarding, questionnaire, gate-warning, copy/OG, and external-waitlist changes on tax-navigator, and private work across agent tooling, documentation, other work, and research.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
