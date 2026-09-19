@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-18 -->
+<!-- date: 2026-09-19 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Ezekiel 37:1 The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which was full of bones,
+Exodus 27:4 And thou shalt make for it a grate of network of brass; and upon the net shalt thou make four brasen rings in the four corners thereof.
 
-Today: shipped a batch of onboarding, questionnaire, gate-warning, copy/OG, and external-waitlist changes on tax-navigator, and private work across agent tooling, documentation, other work, and research.
+Today: private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
