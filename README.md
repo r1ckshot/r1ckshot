@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-20 -->
+<!-- date: 2026-09-21 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Hebrews 6:5 And have tasted the good word of God, and the powers of the world to come,
+2 Samuel 23:9 And after him was Eleazar the son of Dodo the Ahohite, one of the three mighty men with David, when they defied the Philistines that were there gathered together to battle, and the men of Israel were gone away:
 
-Today: merged and polished presentation prep, cut the 0.2.0 release, and fixed incubator expense handling with accepted visual baselines on tax-navigator, and private work in agent tooling, documentation, research, tests, and trading logic.
+Today: private work in documentation, tests, trading logic, and other areas across 4 commits.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
