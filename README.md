@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-21 -->
+<!-- date: 2026-09-22 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-2 Samuel 23:9 And after him was Eleazar the son of Dodo the Ahohite, one of the three mighty men with David, when they defied the Philistines that were there gathered together to battle, and the men of Israel were gone away:
+Leviticus 25:37 Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase.
 
-Today: private work in documentation, tests, trading logic, and other areas across 4 commits.
+Today: fixed Telegram assistant flood-wait handling and added a read-only sample command for measuring chat filters on tax-navigator, and private work in agent tooling, documentation, and other research.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
