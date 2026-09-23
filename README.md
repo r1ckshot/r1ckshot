@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-22 -->
+<!-- date: 2026-09-23 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Leviticus 25:37 Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase.
+Leviticus 25:50 And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubile: and the price of his sale shall be according unto the number of years, according to the time of an hired servant shall it be with him.
 
-Today: fixed Telegram assistant flood-wait handling and added a read-only sample command for measuring chat filters on tax-navigator, and private work in agent tooling, documentation, and other research.
+Today: added weekly G1 question counting and per-period sample labeling to tax-navigator's Telegram assistant, and private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
