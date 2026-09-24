@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-23 -->
+<!-- date: 2026-09-24 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Leviticus 25:50 And he shall reckon with him that bought him from the year that he was sold to him unto the year of jubile: and the price of his sale shall be according unto the number of years, according to the time of an hired servant shall it be with him.
+Acts 23:21 But do not thou yield unto them: for there lie in wait for him of them more than forty men, which have bound themselves with an oath, that they will neither eat nor drink till they have killed him: and now are they ready, looking for a promise from thee.
 
-Today: added weekly G1 question counting and per-period sample labeling to tax-navigator's Telegram assistant, and private work in documentation and other areas.
+Today: private work in agent tooling, deployment, documentation, research, tests, tooling, and trading logic (37 commits).
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
