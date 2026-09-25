@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-24 -->
+<!-- date: 2026-09-25 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Acts 23:21 But do not thou yield unto them: for there lie in wait for him of them more than forty men, which have bound themselves with an oath, that they will neither eat nor drink till they have killed him: and now are they ready, looking for a promise from thee.
+Acts 20:6 And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days; where we abode seven days.
 
-Today: private work in agent tooling, deployment, documentation, research, tests, tooling, and trading logic (37 commits).
+Today: private work in agent tooling, documentation, research, and other areas (10 commits).
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
