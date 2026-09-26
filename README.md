@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-25 -->
+<!-- date: 2026-09-26 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Acts 20:6 And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days; where we abode seven days.
+Leviticus 11:25 And whosoever beareth ought of the carcase of them shall wash his clothes, and be unclean until the even.
 
-Today: private work in agent tooling, documentation, research, and other areas (10 commits).
+Today: private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
