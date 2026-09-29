@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-28 -->
+<!-- date: 2026-09-29 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Joshua 8:1 And the LORD said unto Joshua, Fear not, neither be thou dismayed: take all the people of war with thee, and arise, go up to Ai: see, I have given into thy hand the king of Ai, and his people, and his city, and his land:
+John 8:58 Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.
 
-Today: private work spanning documentation, tests, trading logic, and other miscellaneous changes.
+Today: merged the post-course cleanup PR on tax-navigator, updating docs, settings, and BACKLOG/STATE around removing course-era artifacts, plus private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
