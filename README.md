@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-29 -->
+<!-- date: 2026-09-30 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-John 8:58 Jesus said unto them, Verily, verily, I say unto you, Before Abraham was, I am.
+Zephaniah 3:9 For then will I turn to the people a pure language, that they may all call upon the name of the LORD, to serve him with one consent.
 
-Today: merged the post-course cleanup PR on tax-navigator, updating docs, settings, and BACKLOG/STATE around removing course-era artifacts, plus private work in documentation and other areas.
+Today: private work in documentation, research, and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
