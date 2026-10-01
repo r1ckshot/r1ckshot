@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-09-30 -->
+<!-- date: 2026-10-01 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Zephaniah 3:9 For then will I turn to the people a pure language, that they may all call upon the name of the LORD, to serve him with one consent.
+Jeremiah 32:31 For this city hath been to me as a provocation of mine anger and of my fury from the day that they built it even unto this day; that I should remove it from before my face,
 
-Today: private work in documentation, research, and other areas.
+Today: private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
