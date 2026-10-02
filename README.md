@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-01 -->
+<!-- date: 2026-10-02 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Jeremiah 32:31 For this city hath been to me as a provocation of mine anger and of my fury from the day that they built it even unto this day; that I should remove it from before my face,
+Matthew 25:10 And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.
 
-Today: private work in documentation and other areas.
+Today: fixed incubator income tax calculation against the official tax scale, hardened pricing/rules verification sources and firewall allowances, improved commit message validation, and closed out documentation for the on-demand Telegram pull and roadmap sessions on tax-navigator, plus private work across documentation and research.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
