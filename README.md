@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-03 -->
+<!-- date: 2026-10-04 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Matthew 23:20 Whoso therefore shall swear by the altar, sweareth by it, and by all things thereon.
+1 Chronicles 7:24 (And his daughter was Sherah, who built Bethhoron the nether, and the upper, and Uzzensherah.)
 
-Today: shipped a scheduled rules re-verification pipeline on tax-navigator — monitor-driven cycle checks, law-text and incubator-price fetching, visual baseline fixes — plus private work in agent tooling, documentation, research, and other areas.
+Today: shipped locale-scoped routing for a Poland product page and merged legal-basis rules covering work-form eligibility and B2B reclassification on tax-navigator, and private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
