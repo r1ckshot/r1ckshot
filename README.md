@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-04 -->
+<!-- date: 2026-10-05 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-1 Chronicles 7:24 (And his daughter was Sherah, who built Bethhoron the nether, and the upper, and Uzzensherah.)
+2 Chronicles 31:2 And Hezekiah appointed the courses of the priests and the Levites after their courses, every man according to his service, the priests and Levites for burnt offerings and for peace offerings, to minister, and to give thanks, and to praise in the gates of the tents of the LORD.
 
-Today: shipped locale-scoped routing for a Poland product page and merged legal-basis rules covering work-form eligibility and B2B reclassification on tax-navigator, and private work in documentation and other areas.
+Today: private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
