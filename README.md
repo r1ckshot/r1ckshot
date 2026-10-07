@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-06 -->
+<!-- date: 2026-10-07 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Psalm 147:9 He giveth to the beast his food, and to the young ravens which cry.
+Philippians 2:28 I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful.
 
-Today: private work in documentation and other areas.
+Today: re-verified 30 tax rule entries against primary sources on tax-navigator, and private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
