@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-09 -->
+<!-- date: 2026-10-10 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-2 Samuel 12:16 David therefore besought God for the child; and David fasted, and went in, and lay all night upon the earth.
+Jonah 4:10 Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:
 
-Today: private work in documentation and other areas.
+Today: private work in agent tooling, documentation, and the local assistant, plus other work.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
