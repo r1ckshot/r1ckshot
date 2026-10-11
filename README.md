@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-10 -->
+<!-- date: 2026-10-11 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Jonah 4:10 Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:
+Jeremiah 39:4 And it came to pass, that when Zedekiah the king of Judah saw them, and all the men of war, then they fled, and went forth out of the city by night, by the way of the king’s garden, by the gate betwixt the two walls: and he went out the way of the plain.
 
-Today: private work in agent tooling, documentation, and the local assistant, plus other work.
+Today: private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
