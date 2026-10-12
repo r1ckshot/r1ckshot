@@ -64,12 +64,12 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-11 -->
+<!-- date: 2026-10-12 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Jeremiah 39:4 And it came to pass, that when Zedekiah the king of Judah saw them, and all the men of war, then they fled, and went forth out of the city by night, by the way of the king’s garden, by the gate betwixt the two walls: and he went out the way of the plain.
+Psalm 119:40 Behold, I have longed after thy precepts: quicken me in thy righteousness.
 
 Today: private work in documentation and other areas.
 <!-- nexus:end -->
