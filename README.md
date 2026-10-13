@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-12 -->
+<!-- date: 2026-10-13 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Psalm 119:40 Behold, I have longed after thy precepts: quicken me in thy righteousness.
+Proverbs 29:27 An unjust man is an abomination to the just: and he that is upright in the way is abomination to the wicked.
 
-Today: private work in documentation and other areas.
+Today: re-verified rules against primary sources and tightened CI on tax-navigator (labeler fixes, right-to-work rule labeling, skip-day reporting, running the tg-assistant suite on every PR), plus private work in agent tooling, documentation, a local assistant, and other work.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
