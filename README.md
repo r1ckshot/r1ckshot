@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-14 -->
+<!-- date: 2026-10-15 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Hebrews 13:13 Let us go forth therefore unto him without the camp, bearing his reproach.
+Zechariah 14:13 And it shall come to pass in that day, that a great tumult from the LORD shall be among them; and they shall lay hold every one on the hand of his neighbour, and his hand shall rise up against the hand of his neighbour.
 
-Today: private work in documentation and other areas.
+Today: shipped the redesign on tax-navigator — merged it in, retook all 40 visual reference screenshots, bumped to 0.5.0, fixed an i18n line-break bug, moved sources and tokens onto the ruled sheet, removed the old design-lab pages, and re-verified 25 rules against primary sources; also private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
