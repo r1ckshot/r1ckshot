@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-16 -->
+<!-- date: 2026-10-17 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Matthew 16:12 Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.
+Nehemiah 12:34 Judah, and Benjamin, and Shemaiah, and Jeremiah,
 
-Today: shipped a round of SEO engine/answer pages and cross-links, brand icon updates, and VAT exemption and bank residency rules (with source-based evidence) on tax-navigator, plus private work in agent tooling, documentation, other work, tests, and trading logic.
+Today: stabilized visual regression tests on tax-navigator (animation timing, sources-scene baselines, engine page baselines) and fixed an SEO issue keeping amounts and units together, plus private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
