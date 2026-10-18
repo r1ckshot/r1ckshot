@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-17 -->
+<!-- date: 2026-10-18 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Nehemiah 12:34 Judah, and Benjamin, and Shemaiah, and Jeremiah,
+Acts 18:17 Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things.
 
-Today: stabilized visual regression tests on tax-navigator (animation timing, sources-scene baselines, engine page baselines) and fixed an SEO issue keeping amounts and units together, plus private work in documentation and other areas.
+Today: private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
