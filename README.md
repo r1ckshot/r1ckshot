@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-18 -->
+<!-- date: 2026-10-19 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Acts 18:17 Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things.
+Numbers 5:27 And when he hath made her to drink the water, then it shall come to pass, that, if she be defiled, and have done trespass against her husband, that the water that causeth the curse shall enter into her, and become bitter, and her belly shall swell, and her thigh shall rot: and the woman shall be a curse among her people.
 
-Today: private work in documentation and other areas.
+Today: re-verified 27 tax-navigator rules against primary sources, and private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
