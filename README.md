@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-20 -->
+<!-- date: 2026-10-21 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Jeremiah 12:8 Mine heritage is unto me as a lion in the forest; it crieth out against me: therefore have I hated it.
+John 11:17 Then when Jesus came, he found that he had lain in the grave four days already.
 
-Today: merged a bot-generated rules reverification update on tax-navigator, and private work in documentation and other areas.
+Today: private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
