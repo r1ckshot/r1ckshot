@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-21 -->
+<!-- date: 2026-10-22 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-John 11:17 Then when Jesus came, he found that he had lain in the grave four days already.
+Proverbs 15:25 The LORD will destroy the house of the proud: but he will establish the border of the widow.
 
-Today: private work in documentation and other areas.
+Today: re-verified eight tax rules on tax-navigator after the 2027 local-tax act, and private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
