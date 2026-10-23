@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-22 -->
+<!-- date: 2026-10-23 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Proverbs 15:25 The LORD will destroy the house of the proud: but he will establish the border of the widow.
+Luke 23:23 And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed.
 
-Today: re-verified eight tax rules on tax-navigator after the 2027 local-tax act, and private work in documentation and other areas.
+Today: wrapped up tax-navigator's rename-to-nettomap cleanup and domain move to 1.0.0, plus docs on devcontainer/README state, Paddle as seller, and web-reading rules, and private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
