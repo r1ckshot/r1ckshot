@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-23 -->
+<!-- date: 2026-10-24 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Luke 23:23 And they were instant with loud voices, requiring that he might be crucified. And the voices of them and of the chief priests prevailed.
+Luke 19:18 And the second came, saying, Lord, thy pound hath gained five pounds.
 
-Today: wrapped up tax-navigator's rename-to-nettomap cleanup and domain move to 1.0.0, plus docs on devcontainer/README state, Paddle as seller, and web-reading rules, and private work in documentation and other areas.
+Today: merged the guides feature, retook visual-test baselines with the site footer, and prepared merchant-site requirements and review on tax-navigator, plus private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
