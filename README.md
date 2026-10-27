@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-26 -->
+<!-- date: 2026-10-27 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-1 Kings 19:15 And the LORD said unto him, Go, return on thy way to the wilderness of Damascus: and when thou comest, anoint Hazael to be king over Syria:
+Genesis 40:19 Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee.
 
-Today: private work in documentation and other areas.
+Today: closed out the plain-language pass on tax-navigator (copy rewrites, questionnaire fixes, visual baselines) and continued design-loop and process tooling in the dev sandbox, plus private work in agent tooling, documentation, other work, and research.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
