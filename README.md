@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-27 -->
+<!-- date: 2026-10-28 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Genesis 40:19 Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee.
+Numbers 33:55 But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell.
 
-Today: closed out the plain-language pass on tax-navigator (copy rewrites, questionnaire fixes, visual baselines) and continued design-loop and process tooling in the dev sandbox, plus private work in agent tooling, documentation, other work, and research.
+Today: ported session state docs and mapped working rules to their enforcement hooks on tax-navigator, adding hooks for PR shape, commit conventions, and model/effort reminders, plus private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
