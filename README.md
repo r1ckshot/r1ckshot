@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-28 -->
+<!-- date: 2026-10-29 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Numbers 33:55 But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell.
+2 Kings 3:8 And he said, Which way shall we go up? And he answered, The way through the wilderness of Edom.
 
-Today: ported session state docs and mapped working rules to their enforcement hooks on tax-navigator, adding hooks for PR shape, commit conventions, and model/effort reminders, plus private work in documentation and other areas.
+Today: closed out state docs on tax-navigator, added a code-simplicity-and-reuse rule, briefed on Begin, re-verified 29 rules against primary sources, and private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
