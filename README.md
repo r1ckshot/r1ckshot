@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-29 -->
+<!-- date: 2026-10-30 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-2 Kings 3:8 And he said, Which way shall we go up? And he answered, The way through the wilderness of Edom.
+John 4:46 So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum.
 
-Today: closed out state docs on tax-navigator, added a code-simplicity-and-reuse rule, briefed on Begin, re-verified 29 rules against primary sources, and private work in documentation and other areas.
+Today: advanced the design system work on tax-navigator — recorded direction, inventory, and research, planned theming and SEO — alongside a rules re-verification pass and a CI fix for branch reviews on merge, plus private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
