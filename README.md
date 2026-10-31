@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-30 -->
+<!-- date: 2026-10-31 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-John 4:46 So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum.
+Acts 7:29 Then fled Moses at this saying, and was a stranger in the land of Madian, where he begat two sons.
 
-Today: advanced the design system work on tax-navigator — recorded direction, inventory, and research, planned theming and SEO — alongside a rules re-verification pass and a CI fix for branch reviews on merge, plus private work in documentation and other areas.
+Today: continued tax-navigator's P12 documentation work, recording session state and planning next steps, plus design-system notes on the combined look and country-language framing, and private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
