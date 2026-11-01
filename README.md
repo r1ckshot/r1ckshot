@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-10-31 -->
+<!-- date: 2026-11-01 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Acts 7:29 Then fled Moses at this saying, and was a stranger in the land of Madian, where he begat two sons.
+Deuteronomy 8:15 Who led thee through that great and terrible wilderness, wherein were fiery serpents, and scorpions, and drought, where there was no water; who brought thee forth water out of the rock of flint;
 
-Today: continued tax-navigator's P12 documentation work, recording session state and planning next steps, plus design-system notes on the combined look and country-language framing, and private work in documentation and other areas.
+Today: private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
