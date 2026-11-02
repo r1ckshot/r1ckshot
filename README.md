@@ -64,12 +64,12 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-01 -->
+<!-- date: 2026-11-02 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Deuteronomy 8:15 Who led thee through that great and terrible wilderness, wherein were fiery serpents, and scorpions, and drought, where there was no water; who brought thee forth water out of the rock of flint;
+Psalm 68:6 God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry land.
 
 Today: private work in documentation and other areas.
 <!-- nexus:end -->
