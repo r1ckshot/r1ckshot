@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-02 -->
+<!-- date: 2026-11-03 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Psalm 68:6 God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry land.
+Psalm 104:32 He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke.
 
-Today: private work in documentation and other areas.
+Today: re-verified rule sources and documented design-system session notes, equality rules, and desktop feedback on tax-navigator, and private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
