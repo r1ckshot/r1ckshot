@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-03 -->
+<!-- date: 2026-11-04 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Psalm 104:32 He looketh on the earth, and it trembleth: he toucheth the hills, and they smoke.
+Proverbs 6:1 My son, if thou be surety for thy friend, if thou hast stricken thy hand with a stranger,
 
-Today: re-verified rule sources and documented design-system session notes, equality rules, and desktop feedback on tax-navigator, and private work in documentation and other areas.
+Today: landed docs cleanups on tax-navigator covering cloud re-run planning, design-system link fixes, and closing out P12, plus private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
