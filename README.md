@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-05 -->
+<!-- date: 2026-11-06 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Proverbs 30:7 Two things have I required of thee; deny me them not before I die:
+Isaiah 29:8 It shall even be as when an hungry man dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, he is faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion.
 
-Today: continued overnight research-report and cloud-session documentation on tax-navigator, with PR merges covering state notes, rules re-verification, a session-start hook for bot PRs and rules-verify issues, and a design-system session record, plus private work in documentation and other work.
+Today: re-verified rules against primary sources, extracted act text from PDFs, fixed a FBA incubator price lookup, and ported P14 decisions, progress, and plan notes on tax-navigator, plus private work in documentation and other areas.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
