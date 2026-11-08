@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-07 -->
+<!-- date: 2026-11-08 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Philippians 3:18 (For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
+Exodus 34:13 But ye shall destroy their altars, break their images, and cut down their groves:
 
-Today: continued refining the state/journal workflow and session rules on tax-navigator — porting prior decisions, tightening hooks around merged branches and worktrees, and allowing more parallel agents — plus private work in documentation and other work.
+Today: private work in documentation and other areas, 2 commits.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
