@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-08 -->
+<!-- date: 2026-11-09 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Exodus 34:13 But ye shall destroy their altars, break their images, and cut down their groves:
+Matthew 17:1 And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,
 
-Today: private work in documentation and other areas, 2 commits.
+Today: private work in documentation and other areas (2 commits).
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
