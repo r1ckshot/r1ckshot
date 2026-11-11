@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-09 -->
+<!-- date: 2026-11-11 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Matthew 17:1 And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,
+1 Chronicles 13:10 And the anger of the LORD was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God.
 
-Today: private work in documentation and other areas (2 commits).
+Yesterday: optimized loading and fonts, fixed card animations and header fade, and added wizja w01 questions in ai-quiz. Private: 2 commits — a personal automation agent.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
