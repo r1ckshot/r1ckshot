@@ -47,7 +47,7 @@ Code decides what may be published, not the model's judgement.
 
 <table align="center">
 <tr>
-<td align="center" width="50%"><b><a href="https://github.com/r1ckshot/tax-navigator">tax-navigator</a></b><br>free questionnaire comparing tax setups across two countries' systems</td>
+<td align="center" width="50%"><b><a href="https://nettomap.com">nettomap</a></b><br>free questionnaire comparing tax setups across two countries' systems</td>
 <td align="center" width="50%"><b><a href="https://github.com/r1ckshot/YagodaKarpat">YagodaKarpat</a></b><br>production website for a family blueberry estate</td>
 </tr>
 <tr>
