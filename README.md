@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-14 -->
+<!-- date: 2026-11-15 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Jeremiah 29:1 Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon;
+Genesis 14:21 And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.
 
-Yesterday: added reload prompt for new questions and Uczenie maszynowe W01-W14 questions in ai-quiz; daily note in r1ckshot. Private: 21 commits — a personal automation agent and an MLOps project on phishing URL detection.
+Yesterday: 1 commit to r1ckshot.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
