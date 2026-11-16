@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-15 -->
+<!-- date: 2026-11-16 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Genesis 14:21 And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.
+Ezra 9:10 And now, O our God, what shall we say after this? for we have forsaken thy commandments,
 
-Yesterday: 1 commit to r1ckshot.
+Yesterday: wrote daily note for 2026-11-15 in r1ckshot.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
