@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-17 -->
+<!-- date: 2026-11-18 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Isaiah 44:15 Then shall it be for a man to burn: for he will take thereof, and warm himself; yea, he kindleth it, and baketh bread; yea, he maketh a god, and worshippeth it; he maketh it a graven image, and falleth down thereto.
+Psalm 34:10 The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good thing.
 
-Yesterday: 5 private commits — a personal automation agent.
+2 days ago: 5 private commits — a personal automation agent.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
