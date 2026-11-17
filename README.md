@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-16 -->
+<!-- date: 2026-11-17 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Ezra 9:10 And now, O our God, what shall we say after this? for we have forsaken thy commandments,
+Isaiah 44:15 Then shall it be for a man to burn: for he will take thereof, and warm himself; yea, he kindleth it, and baketh bread; yea, he maketh a god, and worshippeth it; he maketh it a graven image, and falleth down thereto.
 
-Yesterday: wrote daily note for 2026-11-15 in r1ckshot.
+Yesterday: 5 private commits — a personal automation agent.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
