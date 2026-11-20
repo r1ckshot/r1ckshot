@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-19 -->
+<!-- date: 2026-11-20 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Isaiah 54:10 For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee.
+Psalm 105:28 He sent darkness, and made it dark; and they rebelled not against his word.
 
-Yesterday: 28 private commits — a personal automation agent and 1 other project.
+Yesterday: 9 private commits — a personal automation agent and 1 other project.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
