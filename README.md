@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-20 -->
+<!-- date: 2026-11-21 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Psalm 105:28 He sent darkness, and made it dark; and they rebelled not against his word.
+Acts 21:29 (For they had seen before with him in the city Trophimus an Ephesian, whom they supposed that Paul had brought into the temple.)
 
-Yesterday: 9 private commits — a personal automation agent and 1 other project.
+Yesterday: 18 private commits — a personal automation agent.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
