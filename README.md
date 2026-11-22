@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-21 -->
+<!-- date: 2026-11-22 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Acts 21:29 (For they had seen before with him in the city Trophimus an Ephesian, whom they supposed that Paul had brought into the temple.)
+Proverbs 4:24 Put away from thee a froward mouth, and perverse lips put far from thee.
 
-Yesterday: 18 private commits — a personal automation agent.
+2 days ago: 18 private commits — a personal automation agent.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
