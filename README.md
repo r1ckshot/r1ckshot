@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-22 -->
+<!-- date: 2026-11-23 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Proverbs 4:24 Put away from thee a froward mouth, and perverse lips put far from thee.
+Matthew 26:57 And they that had laid hold on Jesus led him away to Caiaphas the high priest, where the scribes and the elders were assembled.
 
-2 days ago: 18 private commits — a personal automation agent.
+3 days ago: 18 private commits — a personal automation agent.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
