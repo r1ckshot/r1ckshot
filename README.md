@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-23 -->
+<!-- date: 2026-11-24 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-Matthew 26:57 And they that had laid hold on Jesus led him away to Caiaphas the high priest, where the scribes and the elders were assembled.
+1 Chronicles 2:53 And the families of Kirjathjearim; the Ithrites, and the Puhites, and the Shumathites, and the Mishraites; of them came the Zareathites, and the Eshtaulites,
 
-3 days ago: 18 private commits — a personal automation agent.
+Yesterday: 22 private commits — short videos that spread God's Word and a personal automation agent.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
