@@ -64,14 +64,14 @@ Code decides what may be published, not the model's judgement.
 ---
 
 <!-- nexus:start -->
-<!-- date: 2026-11-25 -->
+<!-- date: 2026-11-26 -->
 ## 📝 Today
 
 *Written daily by my agent — code decides what gets published.*
 
-2 Chronicles 5:8 For the cherubims spread forth their wings over the place of the ark, and the cherubims covered the ark and the staves thereof above.
+2 Chronicles 32:11 Doth not Hezekiah persuade you to give over yourselves to die by famine and by thirst, saying, The LORD our God shall deliver us out of the hand of the king of Assyria?
 
-Yesterday: 56 private commits — short videos that spread God's Word, an MLOps project on phishing URL detection, a tax-comparison web app, master's thesis research on LLM agent reliability and a personal automation agent.
+Yesterday: 35 private commits — a tax-comparison web app, short videos that spread God's Word and master's thesis research on LLM agent reliability.
 <!-- nexus:end -->
 
 ## 💻 Stack & Activity
